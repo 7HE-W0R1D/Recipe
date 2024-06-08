@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "488039cde271def6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "番茄清炖牛肉.md",
+                "file": "火烧云油焖鸡.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "番茄清炖牛肉.md"
+                "file": "火烧云油焖鸡.md"
               }
             }
           },
@@ -135,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "番茄清炖牛肉.md",
+                "file": "火烧云油焖鸡.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "番茄清炖牛肉.md",
+                "file": "火烧云油焖鸡.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,8 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,10 +161,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "488039cde271def6",
+  "active": "7a69b4aca075aa4d",
   "lastOpenFiles": [
-    "README.md",
+    "菜谱模板.md",
     "番茄清炖牛肉.md",
+    "简易酸辣汤面.md",
+    "火烧云油焖鸡.md",
+    "README.md",
     "2024-05-08.md",
     "Tags"
   ]
