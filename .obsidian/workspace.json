@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "43e2d47e77ff76a5",
+        "id": "d9dc1023625f066f",
         "type": "tabs",
         "children": [
           {
-            "id": "7a69b4aca075aa4d",
+            "id": "fd10032e371b40ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "火烧云油焖鸡.md",
+                "file": "番茄清炖牛肉.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "376dae5f0a6764b4",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.3"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -59,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#牛上脑（可选）",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -115,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "火烧云油焖鸡.md"
+                "file": "番茄清炖牛肉.md"
               }
             }
           },
@@ -133,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "火烧云油焖鸡.md",
+                "file": "番茄清炖牛肉.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "火烧云油焖鸡.md",
+                "file": "番茄清炖牛肉.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,12 +163,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "376dae5f0a6764b4",
+  "active": "ff7eb4253c94feed",
   "lastOpenFiles": [
-    "菜谱模板.md",
     "番茄清炖牛肉.md",
     "简易酸辣汤面.md",
     "火烧云油焖鸡.md",
+    "菜谱模板.md",
     "README.md",
     "2024-05-08.md",
     "Tags"
