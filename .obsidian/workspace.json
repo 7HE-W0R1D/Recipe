@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "376dae5f0a6764b4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -161,7 +172,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7a69b4aca075aa4d",
+  "active": "376dae5f0a6764b4",
   "lastOpenFiles": [
     "菜谱模板.md",
     "番茄清炖牛肉.md",
